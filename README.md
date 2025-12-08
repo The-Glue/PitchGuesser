@@ -10,7 +10,7 @@ The leaderboard was constructed via a combination of Baseball Savant searches an
 
 An accompanying **Streamlit** application allows users to guess the Max MPH for 10 randomly selected 2024 pitchers.
 
-* **Play the Game:** [HERE (https://pitchguesser.streamlit.app/)]
+* **Play the Game:** [HERE](https://pitchguesser.streamlit.app/)
 * **Contact:** Let me know your high score and any feedback on Twitter **[@BarrisHax]**.
 
 All code is written in Python and performed in Jupyter Notebooks.
