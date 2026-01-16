@@ -17,7 +17,7 @@ All code is written in Python and performed in Jupyter Notebooks.
 
 ---
 
-## ⚙️ Data Pipeline: From Scratch to API
+##  Data Pipeline: From Scratch to API
 
 This project showcases the evolution of data sourcing between the 2024 and 2025 seasons, highlighting the power of the MLB Stats API.
 
