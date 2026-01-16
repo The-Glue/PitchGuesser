@@ -1,4 +1,4 @@
-# ⚾️ Max Velocity Leaderboard & PitchGuesser Game
+#  Max Velocity Leaderboard & PitchGuesser Game
 
 This repository addresses a gap in available Statcast data by compiling a **Max Velocity Leaderboard** for every MLB pitcher in the 2024 and 2025 seasons.
 
@@ -6,7 +6,7 @@ While Statcast easily highlights a hitter's hardest-hit ball (the 'red/blue bubb
 
 The leaderboard was constructed via a combination of Baseball Savant searches and calls to the **MLB Stats API**, initially creating a database of every fastball-type pitch thrown in those seasons, then filtering it down to each pitcher's single fastest pitch.
 
-### 🎮 The PitchGuesser Game
+##  The PitchGuesser Game
 
 An accompanying **Streamlit** application allows users to guess the Max MPH for 10 randomly selected 2024 pitchers.
 
