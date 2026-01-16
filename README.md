@@ -44,12 +44,4 @@ For both years, a simple, quick block of Python code was run on the complete dat
 * The final leaderboard CSV files are provided in this repository.
 * *Note: The entire database of fastballs was too large to upload to GitHub.*
 
----
 
-## 📸 Headshots and The Streamlit App
-
-### Pitcher Headshots
-
-Gathering headshots for the game was initially a manual and time-consuming process.
-
-Moving forward, the MLB Stats API provides a reliable and scalable solution for obtaining player images:
